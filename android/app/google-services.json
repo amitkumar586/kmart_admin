@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "573732244427",
+    "project_id": "kmart-2c7fd",
+    "storage_bucket": "kmart-2c7fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573732244427:android:15052d9da4c4b073e9c44e",
+        "android_client_info": {
+          "package_name": "com.example.kmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573732244427-du6oqqh5oqc2jcmath8tqgpehpui2m8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kmart",
+            "certificate_hash": "a3982081fc4c226ac303b9c27af4c773de7c845d"
+          }
+        },
+        {
+          "client_id": "573732244427-hq860a9it7pfvhibkkdo90seo1g5bkbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKzX1n1p-igX8LZ0uQuUdU5gRxSNhfSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573732244427-hq860a9it7pfvhibkkdo90seo1g5bkbe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573732244427-bhj3t298vic3ivqi2kum7deerjfj99mb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kmart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573732244427:android:7eb8cca3fcf08128e9c44e",
+        "android_client_info": {
+          "package_name": "com.example.kmart_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573732244427-hq860a9it7pfvhibkkdo90seo1g5bkbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKzX1n1p-igX8LZ0uQuUdU5gRxSNhfSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573732244427-hq860a9it7pfvhibkkdo90seo1g5bkbe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573732244427-bhj3t298vic3ivqi2kum7deerjfj99mb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kmart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
